@@ -1,3 +1,6 @@
+<img width="1790" alt="image" src="https://github.com/Sairamtagline/business-cards-gallery/assets/60391196/160a1818-2d05-4a75-8647-cc8dd15e6f6f">
+
+
 # Business Cards Gallery
 
 This project is a gallery of digital business cards built using React. Each card summarizes a person's most recent job experience and education.
