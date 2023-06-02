@@ -1,0 +1,204 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "first_name": "John",
+      "last_name": "Doe",
+      "current_title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "phone_number": "123-456-7890",
+      "personal_email": "john.doe@example.com",
+      "linkedIn": "https://www.linkedin.com/in/johndoe",
+      "experience": [
+        "Software Engineer - Company A",
+        "Frontend Developer - Company B",
+        "Intern - Company C"
+      ],
+      "education": [
+        "Bachelor of Science in Computer Science - University X",
+        "High School Diploma - School Y"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "current_title": "Product Manager",
+      "location": "New York, NY",
+      "phone_number": "555-555-5555",
+      "personal_email": "jane.smith@example.com",
+      "linkedIn": "https://www.linkedin.com/in/janesmith",
+      "experience": [
+        "Product Manager - Company D",
+        "Business Analyst - Company E",
+        "Intern - Company F"
+      ],
+      "education": [
+        "Master of Business Administration - University Z",
+        "Bachelor of Arts in Economics - College W"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "first_name": "David",
+      "last_name": "Johnson",
+      "current_title": "Data Scientist",
+      "location": "Chicago, IL",
+      "phone_number": "987-654-3210",
+      "personal_email": "david.johnson@example.com",
+      "linkedIn": "https://www.linkedin.com/in/davidjohnson",
+      "experience": [
+        "Data Scientist - Company G",
+        "Data Analyst - Company H",
+        "Intern - Company I"
+      ],
+      "education": [
+        "Master of Science in Data Science - University V",
+        "Bachelor of Science in Statistics - College U"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "current_title": "UX Designer",
+      "location": "Seattle, WA",
+      "phone_number": "111-222-3333",
+      "personal_email": "emily.brown@example.com",
+      "linkedIn": "https://www.linkedin.com/in/emilybrown",
+      "experience": [
+        "UX Designer - Company J",
+        "Graphic Designer - Company K",
+        "Intern - Company L"
+      ],
+      "education": [
+        "Bachelor of Fine Arts - University T",
+        "Associate Degree in Graphic Design - College S"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "first_name": "Michael",
+      "last_name": "Wilson",
+      "current_title": "Marketing Manager",
+      "location": "Los Angeles, CA",
+      "phone_number": "999-888-7777",
+      "personal_email": "michael.wilson@example.com",
+      "linkedIn": "https://www.linkedin.com/in/michaelwilson",
+      "experience": [
+        "Marketing Manager - Company M",
+        "Digital Marketer - Company N",
+        "Marketing Specialist - Company O"
+      ],
+      "education": [
+        "Master of Business Administration - University R",
+        "Bachelor of Science in Marketing - College Q"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sarah Taylor",
+      "first_name": "Sarah",
+      "last_name": "Taylor",
+      "current_title": "Project Manager",
+      "location": "Austin, TX",
+      "phone_number": "444-555-6666",
+      "personal_email": "sarah.taylor@example.com",
+      "linkedIn": "https://www.linkedin.com/in/sarahtaylor",
+      "experience": [
+        "Project Manager - Company P",
+        "Business Consultant - Company S",
+        "Intern - Company T"
+      ],
+      "education": [
+        "Master of Science in Project Management - University L",
+        "Bachelor of Arts in Business Administration - College K"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Daniel Martinez",
+      "first_name": "Daniel",
+      "last_name": "Martinez",
+      "current_title": "Sales Representative",
+      "location": "Miami, FL",
+      "phone_number": "777-666-5555",
+      "personal_email": "daniel.martinez@example.com",
+      "linkedIn": "https://www.linkedin.com/in/danielmartinez",
+      "experience": [
+        "Sales Representative - Company U",
+        "Account Executive - Company V",
+        "Intern - Company W"
+      ],
+      "education": [
+        "Bachelor of Science in Business - University J",
+        "Associate Degree in Sales - College I"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Olivia Thompson",
+      "first_name": "Olivia",
+      "last_name": "Thompson",
+      "current_title": "HR Manager",
+      "location": "London, UK",
+      "phone_number": "123-123-1234",
+      "personal_email": "olivia.thompson@example.com",
+      "linkedIn": "https://www.linkedin.com/in/oliviathompson",
+      "experience": [
+        "HR Manager - Company X",
+        "Recruitment Specialist - Company Y",
+        "HR Coordinator - Company Z"
+      ],
+      "education": [
+        "Master of Human Resources Management - University H",
+        "Bachelor of Science in Psychology - College G"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Jacob Lee",
+      "first_name": "Jacob",
+      "last_name": "Lee",
+      "current_title": "Financial Analyst",
+      "location": "Toronto, Canada",
+      "phone_number": "987-654-3210",
+      "personal_email": "jacob.lee@example.com",
+      "linkedIn": "https://www.linkedin.com/in/jacoblee",
+      "experience": [
+        "Financial Analyst - Company Z",
+        "Investment Banker - Company Y",
+        "Intern - Company X"
+      ],
+      "education": [
+        "Master of Business Administration - University F",
+        "Bachelor of Commerce - College E"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sophia Clark",
+      "first_name": "Sophia",
+      "last_name": "Clark",
+      "current_title": "Graphic Designer",
+      "location": "Berlin, Germany",
+      "phone_number": "555-444-3333",
+      "personal_email": "sophia.clark@example.com",
+      "linkedIn": "https://www.linkedin.com/in/sophiaclark",
+      "experience": [
+        "Graphic Designer - Company W",
+        "UI/UX Designer - Company X",
+        "Freelance Designer"
+      ],
+      "education": [
+        "Bachelor of Fine Arts - University D",
+        "Associate Degree in Graphic Design - College C"
+      ]
+    }
+  ]
+}
