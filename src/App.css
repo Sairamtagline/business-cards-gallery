@@ -140,10 +140,10 @@ li {
   width: 1px;
   height: 21px;
   background-color: #e7e7e7;
-    transform: translate(4px, -80%);
-    top: 0;
-    left: 0;
-    display: block;
+  transform: translate(4px, -80%);
+  top: 0;
+  left: 0;
+  display: block;
 
 }
 .company-images-main{
@@ -186,24 +186,22 @@ li {
     font-size: 18px;
   }
   }
-@media screen and (max-width: 767px) {
-
-  }
  @media screen and (max-width: 500px) {
   .gallery{
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
   }
   .experience ul li p, .education ul li p{
-    max-width: 130px;
+    max-width: 100%;
     
   }
   .section-title{
     margin-right: 10px;
+    margin-bottom: 10px;
   }
+  .experience, .education {
+    display: block;
   }
-   @media screen and (max-width: 360px) {
-  .experience ul li p, .education ul li p{
-    max-width: 100px;
+  .gallery {
+    padding: 10px;
   }
-
   }

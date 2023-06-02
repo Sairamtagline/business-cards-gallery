@@ -50,7 +50,9 @@ const App = () => {
               </a>
             </div>
             <div className="post-location">
-              <div className="title">{card.current_title}</div>
+              <div className="title" title={card.current_title}>
+                {card.current_title}
+              </div>
               <div className="location">{card.location}</div>
             </div>
           </div>
@@ -60,13 +62,12 @@ const App = () => {
               <ul>
                 {card.experience.map((exp, index) => (
                   <li key={index}>
-                    {" "}
                     <div className="company-images-main">
                       <div className="company-images">
                         <img src={image[randomWholeNum()]} alt="" />{" "}
                       </div>
                     </div>
-                    <p> {exp} </p>
+                    <p title={exp}> {exp} </p>
                   </li>
                 ))}
               </ul>
@@ -76,13 +77,12 @@ const App = () => {
               <ul>
                 {card.education.map((edu, index) => (
                   <li key={index}>
-                    {" "}
                     <div className="company-images-main">
                       <div className="company-images">
                         <img src={image[randomWholeNum()]} alt="" />{" "}
                       </div>
                     </div>
-                    <p>{edu} </p>
+                    <p title={edu}>{edu} </p>
                   </li>
                 ))}
               </ul>
